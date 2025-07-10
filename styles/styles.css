@@ -52,7 +52,6 @@
 }
 /* main styles */
 .main-division{
-    border: 3px solid green;
     max-width: 1140px;
     max-height: 328px;
     margin: auto;
@@ -76,3 +75,26 @@
 .miniimage {
     border-radius: 20px;
 } 
+/* Main 2nd part */
+.main-second-part{
+    max-width: 1140px;
+    height: 306px;
+    background-color: #d9d8ec;
+    margin: 60px auto;
+    border-radius: 15px;
+}
+
+.details-division{
+    display: flex;
+    justify-content: space-around;
+}
+
+.detailshead{
+    color: #4E47FF;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-bottom: 2px;
+}
+.detailspara{
+    margin-top: 0;
+}
