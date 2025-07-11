@@ -34,6 +34,12 @@
     margin-right: 5px;
     cursor: pointer;
 }
+.buttons:hover {
+    text-decoration: solid;
+    background-color: orangered;
+    color: #FFFFFF;
+}
+
 /* header styles */
 .headerr{
     max-width: 1440px;
@@ -160,3 +166,35 @@
     margin: 0 auto;
     margin-top: 100px;
 }
+.form-left-side{
+    font-size: 50px;
+}
+.container{
+    /* top: 50%; */
+    /* left: 50%; */
+    /* transform: translate(-50%,-50%);    */
+    width: 600px;
+    height: 490px;
+    background-color: #bdbafd;
+    border-radius: 7px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.3);
+}
+.container .form{
+    padding: 2rem;
+}
+.form header{
+    font-size: 2rem;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+.form input{
+    height: 60px;
+    width: 497px;
+    padding: 0 15px;
+    font-size: 17px;
+    margin-bottom: 1.3rem;
+    border: 1px solid #ddd;
+    outline: none;
+}
+
