@@ -98,3 +98,65 @@
 .detailspara{
     margin-top: 0;
 }
+/* Card Style */
+.card-child{
+    /* border: 3px solid red; */
+    max-width: 366.67px;
+    height: 243px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 9px 1px #d9d8ec;
+}
+.total-card-flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
+.star-div{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.custom-cards{
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    gap: 34px;
+    padding-left: 0;
+}
+.cushead{
+    margin-bottom: 4px;
+    padding-right: 80px;
+}
+.card-comments{
+    padding-left: 40px;
+    padding-top: 5px;
+}
+.cuscom{
+    margin-top: 0;
+}
+.card-customer-image{
+     display: block;
+     margin-left: 0;
+     padding-left: 40px;
+     width: 40px;
+    height: 40px;
+    border-radius: 50%;
+     margin: 0;
+}
+.star-div{
+    display: flex;
+    justify-content: baseline;
+}
+.final-review{
+    margin-bottom: 0px;
+}
+.final-com{
+    margin-top: 0;
+}
+/* Form Part Styles */
+.form-mother{
+    border: 3px solid red;
+    width: 1140px;
+    height: 632px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
