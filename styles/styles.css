@@ -24,6 +24,9 @@
     color: #4E47FF;
     font-weight: 800;
 }
+.logospan{
+    color: orangered;
+}
 .buttons{
     font-size: 20px;
     border: none;
@@ -89,7 +92,7 @@
 /* Main 2nd part */
 .main-second-part{
     max-width: 1140px;
-    height: 306px;
+    height: 330px;
     background-color: #d9d8ec;
     margin: 60px auto;
     border-radius: 15px;
@@ -102,9 +105,9 @@
 
 .detailshead{
     color: #4E47FF;
-    font-size: 50px;
+    font-size: 75px;
     font-weight: bolder;
-    margin-bottom: 2px;
+    margin-bottom: 0;
 }
 .detailspara{
     margin-top: 0;
